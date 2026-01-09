@@ -101,5 +101,9 @@ legitimate emails in the dataset.
 The feature importance plot shows which features contribute most to
 spam detection according to the Logistic Regression model.
 
+Task 7
 
+Two visualizations please check python code. 
+Visualization 1 – Class distribution
+Visualization 2 – Feature importance
 
